@@ -1,0 +1,31 @@
+{
+  "tests" : [ {
+    "name" : "tests.WelcomePageTest#welcomePage_shouldLookGood_onDevice",
+    "startedAt" : 1485443796804,
+    "endedAt" : 1485443796804,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 26,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 26
+    },
+    "testId" : "1-tests.welcomepagetest-welcomepage-shouldlookgood-ondevice",
+    "duration" : 0,
+    "failed" : false
+  }, {
+    "name" : "tests.WelcomePageTest#welcomePage_shouldLookGood_onDevice",
+    "startedAt" : 1485443802672,
+    "endedAt" : 1485443802672,
+    "failed" : false,
+    "statistic" : {
+      "passed" : 22,
+      "errors" : 0,
+      "warnings" : 0,
+      "total" : 22
+    },
+    "testId" : "2-tests.welcomepagetest-welcomepage-shouldlookgood-ondevice",
+    "duration" : 0,
+    "failed" : false
+  } ]
+}
